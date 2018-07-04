@@ -6,9 +6,9 @@
 <div class="modal fade" id="Modal1" tabindex="-1" role="dialog" aria-labelledby="ModalLabel1" aria-hidden="true">
     <div class="modal-dialog modal-lg" role="document">
         <div class="modal-content">
-            <button type="button" class="m-close" data-dismiss="modal"><img src="public/images/icons/close.svg" alt="Close"></button>
+            <button type="button" class="m-close" data-dismiss="modal"><img src="images/icons/close.svg" alt="Close"></button>
             <div class="modal-body">
-                <div class="left-img"> <img src="public/images/pictures/man.png" alt="Picture"> </div>
+                <div class="left-img"> <img src="images/pictures/man.png" alt="Picture"> </div>
                 <form action="#">
                     <div class="form-box">
                         <h2>Callback</h2>
@@ -30,9 +30,9 @@
 <div class="modal fade" id="Modal2" tabindex="-1" role="dialog" aria-labelledby="ModalLabel2" aria-hidden="true">
     <div class="modal-dialog modal-lg" role="document">
         <div class="modal-content">
-            <button type="button" class="m-close" data-dismiss="modal"><img src="public/images/icons/close.svg" alt="Close"></button>
+            <button type="button" class="m-close" data-dismiss="modal"><img src="images/icons/close.svg" alt="Close"></button>
             <div class="modal-body m2">
-                <div class="left-img"> <img src="public/images/pictures/pic.png" alt="Picture"> </div>
+                <div class="left-img"> <img src="images/pictures/pic.png" alt="Picture"> </div>
                 <form action="#">
                     <div class="form-box">
                         <h2>Anfrage Stellen</h2>
@@ -67,7 +67,7 @@
 <div class="image-box">
     <div class="left-box">
         <div class="info">
-            <a href="#" class="flag"><img class="img-responsive" src="public/images/icons/flag.gif" alt="Picture" /></a>
+            <a href="#" class="flag"><img class="img-responsive" src="images/icons/flag.gif" alt="Picture" /></a>
             <ul>
                 <li><a href="#">Outsourcing</a></li>
                 <li><a href="#">Outstaffing</a></li>
@@ -79,7 +79,7 @@
             </div><a href="#Modal2" data-toggle="modal" class="btn rounded-0">Anfrage Stellen</a></div>
     </div>
     <div class="right-box">
-        <div class="pic"><img class="img-responsive" src="public/images/pictures/main-image.jpg" alt="Picture" /></div>
+        <div class="pic"><img class="img-responsive" src="images/pictures/main-image.jpg" alt="Picture" /></div>
     </div>
 </div>
 <div class="forma-box bg">
@@ -122,7 +122,7 @@
     <div class="photo-box">
         <a href="#">
             <span class="title">OUTSOURCING</span>
-            <img class="img-responsive" src="public/images/pictures/it-outsourcing-img.png" alt="Picture" />
+            <img class="img-responsive" src="images/pictures/it-outsourcing-img.png" alt="Picture" />
             <strong class="dis-non"></strong>
         </a>
         <div class="bg-2"> <span class="span-2">Auslagerung kompletter IT-Projekte</span>
@@ -130,13 +130,13 @@
         </div>
     </div>
     <div class="photo-box">
-        <a href="#"> <span class="title">Outstaffing</span> <img class="img-responsive" src="public/images/pictures/it-outstaffing-img.png" alt="Picture" /> <strong class="dis-non"></strong></a>
+        <a href="#"> <span class="title">Outstaffing</span> <img class="img-responsive" src="images/pictures/it-outstaffing-img.png" alt="Picture" /> <strong class="dis-non"></strong></a>
         <div class="bg-2"> <span class="span-2">Dedicated Development Teams</span>
             <p>Mit unserem zuverlässigen und flexiblen Service können wir Ihren Personalbedarf mit qualifizierten Mitarbeitern decken.</p>
         </div>
     </div>
     <div class="photo-box">
-        <a href="#"> <span class="title">Recruitment</span> <img class="img-responsive" src="public/images/pictures/it-recruiting-img.png" alt="Picture" /> <strong class="dis-non"></strong></a>
+        <a href="#"> <span class="title">Recruitment</span> <img class="img-responsive" src="images/pictures/it-recruiting-img.png" alt="Picture" /> <strong class="dis-non"></strong></a>
         <div class="bg-2"> <span class="span-2">Personalbeschaffung zur Übernahme</span>
             <p>Wir bieten moderne Recruiting Kampagnen, klassische Personalberatung und Personal Staffing in Osteuropa an.</p>
         </div>
@@ -146,7 +146,7 @@
     <div class="info-area">
         <h2>Warum BSBV der richtige Partner ist</h2>
         <div class="list-post">
-            <div class="im"> <img src="public/images/pictures/tech.svg" alt="Picture" /> </div>
+            <div class="im"> <img src="images/pictures/tech.svg" alt="Picture" /> </div>
             <div class="desc">
                 <div class="desc-box">
                     <ul>
@@ -178,42 +178,42 @@
     <h2>Clients say about us</h2>
     <div class="slider-wrapper owl-carousel" id="home-slider">
         <div class="item">
-            <div class="photo"><img class="img-responsive" src="public/images/pictures/photo.jpg" alt="Picture" /></div>
+            <div class="photo"><img class="img-responsive" src="images/pictures/photo.jpg" alt="Picture" /></div>
             <div class="photo-info">
                 <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. </p>
                 <h3>Victoria Engel</h3> <span>Head of HR Department at Company</span>
                 <h4>LONDON</h4> </div>
         </div>
         <div class="item">
-            <div class="photo"><img class="img-responsive" src="public/images/pictures/photo.jpg" alt="Picture" /></div>
+            <div class="photo"><img class="img-responsive" src="images/pictures/photo.jpg" alt="Picture" /></div>
             <div class="photo-info">
                 <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. </p>
                 <h3>Victoria Engel</h3> <span>Head of HR Department at Company</span>
                 <h4>LONDON</h4> </div>
         </div>
         <div class="item">
-            <div class="photo"><img class="img-responsive" src="public/images/pictures/photo.jpg" alt="Picture" /></div>
+            <div class="photo"><img class="img-responsive" src="images/pictures/photo.jpg" alt="Picture" /></div>
             <div class="photo-info">
                 <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. </p>
                 <h3>Victoria Engel</h3> <span>Head of HR Department at Company</span>
                 <h4>LONDON</h4> </div>
         </div>
         <div class="item">
-            <div class="photo"><img class="img-responsive" src="public/images/pictures/photo.jpg" alt="Picture" /></div>
+            <div class="photo"><img class="img-responsive" src="images/pictures/photo.jpg" alt="Picture" /></div>
             <div class="photo-info">
                 <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. </p>
                 <h3>Victoria Engel</h3> <span>Head of HR Department at Company</span>
                 <h4>LONDON</h4> </div>
         </div>
         <div class="item">
-            <div class="photo"><img class="img-responsive" src="public/images/pictures/photo.jpg" alt="Picture" /></div>
+            <div class="photo"><img class="img-responsive" src="images/pictures/photo.jpg" alt="Picture" /></div>
             <div class="photo-info">
                 <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. </p>
                 <h3>Victoria Engel</h3> <span>Head of HR Department at Company</span>
                 <h4>LONDON</h4> </div>
         </div>
         <div class="item">
-            <div class="photo"><img class="img-responsive" src="public/images/pictures/photo.jpg" alt="Picture" /></div>
+            <div class="photo"><img class="img-responsive" src="images/pictures/photo.jpg" alt="Picture" /></div>
             <div class="photo-info">
                 <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. </p>
                 <h3>Victoria Engel</h3> <span>Head of HR Department at Company</span>
@@ -225,7 +225,7 @@
     <div class="info-area">
         <h2>Hochqualifiziertes und motiviertes Fachpersonal</h2>
         <div class="list-post">
-            <div class="im"> <img src="public/images/pictures/pic.jpg" alt="Picture" /> </div>
+            <div class="im"> <img src="images/pictures/pic.jpg" alt="Picture" /> </div>
             <div class="desc">
                 <ul>
                     <li>Wir verfügen über <strong>15 Jahre</strong>
@@ -308,18 +308,18 @@
         </div>
     </div>
     <div class="map-im">
-        <img src="public/images/pictures/world-high.svg" alt="Picture" />
+        <img src="images/pictures/world-high.svg" alt="Picture" />
         <div class="hover-img germany">
-            <img src="public/images/pictures/world-high-ger.svg" alt="Picture" />
+            <img src="images/pictures/world-high-ger.svg" alt="Picture" />
         </div>
         <div class="hover-img uk">
-            <img src="public/images/pictures/world-high-uk.svg" alt="Picture" />
+            <img src="images/pictures/world-high-uk.svg" alt="Picture" />
         </div>
         <div class="hover-img usa">
-            <img src="public/images/pictures/world-high-usa.svg" alt="Picture" />
+            <img src="images/pictures/world-high-usa.svg" alt="Picture" />
         </div>
         <div class="hover-img sw">
-            <img src="public/images/pictures/world-high-sw.svg" alt="Picture" />
+            <img src="images/pictures/world-high-sw.svg" alt="Picture" />
         </div>
         <a href="germany" class="map-link ger"></a>
         <a href="sw" class="map-link sw"></a>
@@ -327,8 +327,8 @@
         <a href="usa" class="map-link usa"></a>
         <a href="usa" class="map-link usa top"></a>
         <div class="t-box germany">
-            <a href="#" class="m-close"><img src="public/images/icons/close.svg" alt="Close" /></a>
-            <h2>GERMANY</h2><img src="public/images/pictures/photo-man.png" alt="Picture" />
+            <a href="#" class="m-close"><img src="images/icons/close.svg" alt="Close" /></a>
+            <h2>GERMANY</h2><img src="images/pictures/photo-man.png" alt="Picture" />
             <div class="r-box">
                 <h3>Sales Representative</h3>
                 <p>Damian König
@@ -345,8 +345,8 @@
             </div>
         </div>
         <div class="t-box sw">
-            <a href="#" class="m-close"><img src="public/images/icons/close.svg" alt="Close" /></a>
-            <h2>Switzerlang</h2><img src="public/images/pictures/photo-man.png" alt="Picture" />
+            <a href="#" class="m-close"><img src="images/icons/close.svg" alt="Close" /></a>
+            <h2>Switzerlang</h2><img src="images/pictures/photo-man.png" alt="Picture" />
             <div class="r-box">
                 <h3>Sales Representative</h3>
                 <p>Damian König
@@ -363,8 +363,8 @@
             </div>
         </div>
         <div class="t-box uk">
-            <a href="#" class="m-close"><img src="public/images/icons/close.svg" alt="Close" /></a>
-            <h2>United Kingdom</h2><img src="public/images/pictures/photo-man.png" alt="Picture" />
+            <a href="#" class="m-close"><img src="images/icons/close.svg" alt="Close" /></a>
+            <h2>United Kingdom</h2><img src="images/pictures/photo-man.png" alt="Picture" />
             <div class="r-box">
                 <h3>Sales Representative</h3>
                 <p>Damian König
@@ -381,8 +381,8 @@
             </div>
         </div>
         <div class="t-box usa">
-            <a href="#" class="m-close"><img src="public/images/icons/close.svg" alt="Close" /></a>
-            <h2>USA</h2><img src="public/images/pictures/photo-man.png" alt="Picture" />
+            <a href="#" class="m-close"><img src="images/icons/close.svg" alt="Close" /></a>
+            <h2>USA</h2><img src="images/pictures/photo-man.png" alt="Picture" />
             <div class="r-box">
                 <h3>Sales Representative</h3>
                 <p>Damian König
